@@ -11,6 +11,7 @@ namespace Prototype
 
             Console.WriteLine($"First person data: name:{person.Name} , gender: {person.Gender}, Age: {person.Age}, id: {person.Id}");
             Console.WriteLine($"Second person data: name:{person2.Name} , gender: {person2.Gender}, Age: {person2.Age}, id: {person2.Id}");
+
         }
     }
 }
